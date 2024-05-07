@@ -1,4 +1,4 @@
-# tersting
+# Testing and Try bun on Windows
 
 To install dependencies:
 
